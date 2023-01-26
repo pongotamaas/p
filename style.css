@@ -1,3 +1,7 @@
+body {
+  background-image: url("img/hatter.jpg");
+ }
+
 #mySidenav a {
     position: absolute;
     left: -80px;
